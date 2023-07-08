@@ -1,5 +1,5 @@
 Project description ==  Markdown
-this project is to set to learn the following concepts 
+this project is to set to learn the following concepts
 What is a virtual machine
 What is Vagrant
 Who wrote Vagrant
